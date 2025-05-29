@@ -1,0 +1,49 @@
+{
+  "SSC MTS": {
+    "REASONING": {
+      "COUNTING FIGURES": "Not Started",
+      "Calendars": "Not Started",
+      "Relationships": "Not Started",
+      "Sitting arrangements": "Not Started",
+      "Statement-conclusions": "Not Started",
+      "sequently placed": "Not Started",
+      "mathematical signs": "Not Started"
+    },
+    "MATHEMATICS": {
+      "NUMBER SYSTEM": "Completed",
+      "TRIGONOMETERY": "Completed",
+      "algebra": "Not Started",
+      "Discounts": "Not Started",
+      "Profit-and-loss": "Not Started",
+      "Time-and-distance": "Not Started",
+      "Geometery": "Not Started",
+      "percentage": "Started",
+      "simplification": "Not Started",
+      "compund interest": "Not Started",
+      "mixture and aligations": "Not Started",
+      "Ratios": "Not Started",
+      "simple interest": "Not Started",
+      "Time and Distance": "Not Started"
+    },
+    "ENGLISH": {
+      "PASSIVE VOICE": "Completed",
+      "Direct indirect speech": "Not Started"
+    },
+    "General knowledge": {
+      "Ancient Indian history": "In Progress",
+      "Famous wars in india": "Not Started",
+      "List of imp articles": "Not Started",
+      "List of imp amendments": "Not Started",
+      "Five years plans": "Not Started"
+    }
+  },
+  "CPCB UDC": {},
+  "SSC CHSL": {
+    "REASONING": {},
+    "MATHEMATICS": {},
+    "General knowledge": {},
+    "ENGLISH": {}
+  },
+  "SSC CGL": {},
+  "RRB NTPC": {}
+}

@@ -1,0 +1,543 @@
+{
+  "2025-04-23": [
+    {
+      "task": "I want to wake up at 6'o clock",
+      "completed": true
+    },
+    {
+      "task": "before sleep i need to write ssc chsl on adda247",
+      "completed": true
+    },
+    {
+      "task": "i need to complete class 5 of trigonometery",
+      "completed": true
+    },
+    {
+      "task": "sleep before 11pm",
+      "completed": false
+    }
+  ],
+  "2025-04-24": [
+    {
+      "task": "meet jayasuma madam after 11am",
+      "completed": true
+    },
+    {
+      "task": "wake at morning 6 am",
+      "completed": true
+    },
+    {
+      "task": "spent 2 hours on analysis of mock tests",
+      "completed": true
+    },
+    {
+      "task": "English study",
+      "completed": false
+    },
+    {
+      "task": "TRIGONOMETERY 6 th calss",
+      "completed": true
+    },
+    {
+      "task": "history first class",
+      "completed": false
+    }
+  ],
+  "2025-04-25": [
+    {
+      "task": "wake up",
+      "completed": true
+    },
+    {
+      "task": "fresh",
+      "completed": true
+    },
+    {
+      "task": "breakfast",
+      "completed": true
+    },
+    {
+      "task": "maths",
+      "completed": true
+    },
+    {
+      "task": "english",
+      "completed": false
+    },
+    {
+      "task": "meet jayasuma madam after 2 pm",
+      "completed": true
+    },
+    {
+      "task": "GK ancient one video ",
+      "completed": true
+    },
+    {
+      "task": "ssc cgl mock after dinner",
+      "completed": true
+    }
+  ],
+  "2025-04-26": [
+    {
+      "task": "wake up",
+      "completed": true
+    },
+    {
+      "task": "maths",
+      "completed": false
+    },
+    {
+      "task": "english",
+      "completed": false
+    },
+    {
+      "task": "G.k",
+      "completed": false
+    },
+    {
+      "task": "Maths",
+      "completed": false
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
+  ],
+  "2025-04-27": [],
+  "2025-04-28": [
+    {
+      "task": "wake up",
+      "completed": true
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    },
+    {
+      "task": "gk class",
+      "completed": false
+    },
+    {
+      "task": "english av and pv complete",
+      "completed": false
+    },
+    {
+      "task": "maths class",
+      "completed": false
+    }
+  ],
+  "2025-04-29": [
+    {
+      "task": "wake up",
+      "completed": true
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    },
+    {
+      "task": "Class 8 of trigo",
+      "completed": true
+    },
+    {
+      "task": "second video of ancient history",
+      "completed": false
+    },
+    {
+      "task": "AV and PV ",
+      "completed": true
+    },
+    {
+      "task": "analysis of reasoning and g.k",
+      "completed": true
+    }
+  ],
+  "2025-04-30": [
+    {
+      "task": "wake up",
+      "completed": true
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
+  ],
+  "2025-05-07": [
+    {
+      "task": "wake up",
+      "completed": true
+    },
+    {
+      "task": "Mock tests",
+      "completed": true
+    },
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": true
+    }
+  ],
+  "2025-05-08": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    }
+  ],
+  "2025-05-09": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "breakfast",
+      "completed": true
+    },
+    {
+      "task": "maths",
+      "completed": false
+    },
+    {
+      "task": "english",
+      "completed": false
+    },
+    {
+      "task": "namaz",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": true
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
+  ],
+  "2025-05-10": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": true
+    },
+    {
+      "task": "maths",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": true
+    },
+    {
+      "task": "G.k",
+      "completed": false
+    },
+    {
+      "task": "Maths",
+      "completed": false
+    }
+  ],
+  "2025-05-11": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    }
+  ],
+  "2025-05-12": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
+  ],
+  "2025-05-13": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    }
+  ],
+  "2025-05-16": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": true
+    },
+    {
+      "task": "breakfast",
+      "completed": false
+    },
+    {
+      "task": "maths",
+      "completed": false
+    },
+    {
+      "task": "english",
+      "completed": false
+    },
+    {
+      "task": "namaz",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
+  ],
+  "2025-05-18": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    }
+  ],
+  "2025-05-19": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": true
+    },
+    {
+      "task": "Mock tests",
+      "completed": true
+    }
+  ],
+  "2025-05-20": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    }
+  ],
+  "2025-05-26": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": true
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
+  ],
+  "2025-05-27": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": true
+    }
+  ],
+  "2025-05-28": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "english",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "maths",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
+  ],
+  "2025-05-29": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    }
+  ]
+}
