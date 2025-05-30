@@ -539,5 +539,43 @@
       "task": "All daily quizz",
       "completed": false
     }
+  ],
+  "2025-05-30": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "breakfast",
+      "completed": false
+    },
+    {
+      "task": "maths",
+      "completed": false
+    },
+    {
+      "task": "english",
+      "completed": false
+    },
+    {
+      "task": "namaz",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    }
   ]
 }
