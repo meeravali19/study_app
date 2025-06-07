@@ -7,7 +7,8 @@
       "Sitting arrangements": "Not Started",
       "Statement-conclusions": "Not Started",
       "sequently placed": "Not Started",
-      "mathematical signs": "Not Started"
+      "mathematical signs": "Not Started",
+      "missing number in figure": "Completed"
     },
     "MATHEMATICS": {
       "NUMBER SYSTEM": "Completed",
@@ -23,11 +24,14 @@
       "mixture and aligations": "Not Started",
       "Ratios": "Not Started",
       "simple interest": "Not Started",
-      "Time and Distance": "Not Started"
+      "Time and Distance": "Not Started",
+      "ages": "Completed"
     },
     "ENGLISH": {
       "PASSIVE VOICE": "Completed",
-      "Direct indirect speech": "Not Started"
+      "Direct indirect speech": "Not Started",
+      "noun": "Completed",
+      "pronoun": "Completed"
     },
     "General knowledge": {
       "Ancient Indian history": "In Progress",

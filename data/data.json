@@ -1,0 +1,88 @@
+{
+    "2025-06": [
+        {
+            "date": "2025-06-01",
+            "category": "Food",
+            "amount": 30.0,
+            "note": "cocount water"
+        },
+        {
+            "date": "2025-06-01",
+            "category": "Study",
+            "amount": 40.0,
+            "note": "new book buyed"
+        },
+        {
+            "date": "2025-06-03",
+            "category": "Food",
+            "amount": 30.0,
+            "note": "cocount water"
+        },
+        {
+            "date": "2025-06-04",
+            "category": "Utilities",
+            "amount": 45.0,
+            "note": "soap-10,soapbox-25,saruf-10"
+        },
+        {
+            "date": "2025-06-04",
+            "category": "Food",
+            "amount": 10.0,
+            "note": "lemon jiuce"
+        },
+        {
+            "date": "2025-06-04",
+            "category": "Study",
+            "amount": 40.0,
+            "note": "new book buyed"
+        },
+        {
+            "date": "2025-06-05",
+            "category": "Utilities",
+            "amount": 20.0,
+            "note": "paste buyed"
+        },
+        {
+            "date": "2025-06-05",
+            "category": "Food",
+            "amount": 25.0,
+            "note": "egg curry on tuesday because of brinjal"
+        },
+        {
+            "date": "2025-06-05",
+            "category": "Food",
+            "amount": 10.0,
+            "note": "butter milk"
+        },
+        {
+            "date": "2025-06-06",
+            "category": "Study",
+            "amount": 200.0,
+            "note": "vocab victory classes"
+        },
+        {
+            "date": "2025-06-06",
+            "category": "Exam fees",
+            "amount": 100.0,
+            "note": "ssc phase-13 1st post"
+        },
+        {
+            "date": "2025-06-06",
+            "category": "Food",
+            "amount": 10.0,
+            "note": "butter milk"
+        },
+        {
+            "date": "2025-06-07",
+            "category": "Other",
+            "amount": 60.0,
+            "note": "beard cutting"
+        },
+        {
+            "date": "2025-06-07",
+            "category": "Food",
+            "amount": 10.0,
+            "note": "butter milk"
+        }
+    ]
+}

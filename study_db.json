@@ -1,12 +1,62 @@
-[
-    {
-        "id": "014732a0-5a79-49dc-9e2c-376a9a1a51bf",
-        "subject": "GA",
-        "topic": "Festivals",
-        "notes": "repeat-1",
-        "last_studied": "2025-05-29 19:32:48",
-        "repetition_count": 1,
-        "next_reminder": "2025-06-05 19:32:48",
-        "reviewed": false
-    }
-]
+{
+    "Reasoning": [
+        {
+            "id": "064142a2-b360-443b-998e-96582e1c23f7",
+            "topic": "Missing Number In Figures",
+            "notes": "develop",
+            "session_time": "2025-06-03 14:38:53",
+            "repetition": 2,
+            "next_review": "2025-06-10 14:38:53",
+            "reviewed": false
+        },
+        {
+            "id": "23a373b4-e6c6-4eed-9125-3dd497f6c920",
+            "topic": "Number Series",
+            "notes": "just completed",
+            "session_time": "2025-06-06 22:16:06",
+            "repetition": 3,
+            "next_review": "2025-06-13 22:16:06",
+            "reviewed": false
+        }
+    ],
+    "English": [
+        {
+            "id": "b298659f-8b94-4adc-aa5a-f68766dbc3a3",
+            "topic": "Noun",
+            "notes": "just completed",
+            "session_time": "2025-06-04 14:13:57",
+            "repetition": 2,
+            "next_review": "2025-06-08 14:13:57",
+            "reviewed": false
+        },
+        {
+            "id": "cf691612-61a8-41ed-9d6f-b4805dc2ceda",
+            "topic": "Pronoun",
+            "notes": "just completed",
+            "session_time": "2025-06-07 19:14:46",
+            "repetition": 2,
+            "next_review": "2025-06-08 19:14:46",
+            "reviewed": false
+        }
+    ],
+    "Arithmetic": [
+        {
+            "id": "0fc72138-e563-4fa1-8593-45827db6b7db",
+            "topic": "Basics",
+            "notes": "just completed",
+            "session_time": "2025-06-06 22:16:09",
+            "repetition": 2,
+            "next_review": "2025-06-13 22:16:09",
+            "reviewed": false
+        },
+        {
+            "id": "9aa56d55-1c92-445f-b852-2cede5d53c17",
+            "topic": "Ages",
+            "notes": "just completed",
+            "session_time": "2025-06-07 19:51:44",
+            "repetition": 3,
+            "next_review": "2025-06-14 19:51:44",
+            "reviewed": false
+        }
+    ]
+}

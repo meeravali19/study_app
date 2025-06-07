@@ -577,5 +577,457 @@
       "task": "Mock tests",
       "completed": false
     }
+  ],
+  "2025-05-31": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "maths",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    },
+    {
+      "task": "G.k",
+      "completed": false
+    },
+    {
+      "task": "Maths",
+      "completed": false
+    }
+  ],
+  "2025-06-01": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    }
+  ],
+  "2025-06-02": [
+    {
+      "task": "wake up & walk",
+      "completed": true
+    },
+    {
+      "task": "study gk",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "All daily quizz",
+      "completed": false
+    },
+    {
+      "task": "Mock tests",
+      "completed": false
+    },
+    {
+      "task": "classes",
+      "completed": false
+    },
+    {
+      "task": "classes",
+      "completed": false
+    },
+    {
+      "task": "classes",
+      "completed": false
+    },
+    {
+      "task": "classes",
+      "completed": true
+    },
+    {
+      "task": "classes",
+      "completed": true
+    },
+    {
+      "task": "classes",
+      "completed": true
+    },
+    {
+      "task": "exam",
+      "completed": true
+    },
+    {
+      "task": "analysis",
+      "completed": false
+    },
+    {
+      "task": "revision",
+      "completed": false
+    },
+    {
+      "task": "bath",
+      "completed": true
+    },
+    {
+      "task": "food",
+      "completed": true
+    },
+    {
+      "task": "revision-9am",
+      "completed": true
+    }
+  ],
+  "2025-06-03": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "bath",
+      "completed": true
+    },
+    {
+      "task": "food",
+      "completed": true
+    },
+    {
+      "task": "revision-9am",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "exam",
+      "completed": false
+    },
+    {
+      "task": "analysis",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "revision-pm",
+      "completed": false
+    }
+  ],
+  "2025-06-04": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "bath",
+      "completed": true
+    },
+    {
+      "task": "food",
+      "completed": true
+    },
+    {
+      "task": "revision-9am",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "exam",
+      "completed": false
+    },
+    {
+      "task": "analysis",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "revision-pm",
+      "completed": true
+    }
+  ],
+  "2025-06-05": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "bath",
+      "completed": true
+    },
+    {
+      "task": "food",
+      "completed": true
+    },
+    {
+      "task": "revision-9am",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "exam",
+      "completed": false
+    },
+    {
+      "task": "analysis",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "revision-pm",
+      "completed": false
+    }
+  ],
+  "2025-06-06": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "bath",
+      "completed": true
+    },
+    {
+      "task": "food",
+      "completed": true
+    },
+    {
+      "task": "revision-9am",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "namaz",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "exam",
+      "completed": false
+    },
+    {
+      "task": "analysis",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "revision-pm",
+      "completed": true
+    }
+  ],
+  "2025-06-07": [
+    {
+      "task": "wake up & walk",
+      "completed": false
+    },
+    {
+      "task": "bath",
+      "completed": true
+    },
+    {
+      "task": "food",
+      "completed": true
+    },
+    {
+      "task": "revision",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "classes-m",
+      "completed": true
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "classes-f",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": false
+    },
+    {
+      "task": "exam",
+      "completed": false
+    },
+    {
+      "task": "analysis",
+      "completed": false
+    },
+    {
+      "task": "break",
+      "completed": true
+    },
+    {
+      "task": "revision-pm",
+      "completed": true
+    }
   ]
 }
